@@ -1,0 +1,9 @@
+1) am scos toate pauzele, respiratiile, sunetele care nu aveau ce cauta in naratiune.
+
+2) am verificat cu Sample Peek daca avem peek-uri pana in -3 dB ( sunt in jurul intervalului [-20, -15] dB )
+
+3) aplicam filtrul trece sus (FTS) pentru a elimina frecventele nedorite (plug-in -> EQ -> EQ3 7-band) (am pus captura de ecran cu valorile finale)
+
+4) am utilizat plug-in ul pentru a edita gama dinamica (plug-in -> Dynamics -> Dyn3 Compressor/Limiter)
+
+5) Export -> Bounce
